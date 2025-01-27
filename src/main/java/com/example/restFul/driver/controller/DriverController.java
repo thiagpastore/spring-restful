@@ -5,7 +5,7 @@
 package com.example.restFul.driver.controller;
 
 import com.example.restFul.driver.model.Driver;
-import com.example.restFul.service.DriverService;
+import com.example.restFul.driver.service.DriverService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

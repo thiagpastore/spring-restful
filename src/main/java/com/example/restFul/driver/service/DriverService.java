@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.example.restFul.service;
+package com.example.restFul.driver.service;
 
 import com.example.restFul.driver.model.Driver;
 import com.example.restFul.driver.repository.DriverRepository;
